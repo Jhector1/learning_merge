@@ -1,3 +1,7 @@
 function merge(){
-    return "Hello Merge";
+    return "Hello pascal"
+}
+
+function disThat(){
+    return "Colonel";
 }
